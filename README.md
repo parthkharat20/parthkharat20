@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-Pre-final year Computer Engineering student at **Dr. D. Y. Patil Institute of Technology (DYPIT), Pune** (SPPU) — CGPA **9.35**. I build production-grade full-stack products and, increasingly, autonomous AI agent systems and embedded edge-AI hardware — the kind of work that turns a hackathon weekend into something that actually ships.
+Pre-final year Computer Engineering student at **Dr. D. Y. Patil Institute of Technology (DYPIT), Pune** (SPPU) — CGPA **9.35**. I build production-grade full-stack products and, increasingly, autonomous AI agent systems — the kind of work that turns a hackathon weekend into something that actually ships.
 
 Active member of **GDG DIT** (Web Development domain), a daily DSA grinder (Striver's A2Z Sheet), and an occasional night-trekker. 🏔️
 
@@ -85,13 +85,6 @@ Active member of **GDG DIT** (Web Development domain), a daily DSA grinder (Stri
 
 ## 🚀 Featured Projects
 
-### 💧 HydroTrack — TIGC 2026
-A decentralized smart tap node with edge-computed viscosity compensation, TinyML-based acoustic leak/cavitation diagnostics, UV-C sterilization, AC-excitation TDS sensing, and a screen-free ambient RGB LED behavioral-nudge interface. Built with a 5-member team (Aniket Ingale, Mohit Mulik, Siddhi Agrawal, Abhijit Deshmukh) for La Trobe University's Technology Infusion Grand Challenge.
-
-`ESP32-S3` `TinyML` `Edge Computing` `Embedded Systems`
-
-🏅 **Phase 1 Winner** — $500 AUD investment award; provisional patent drafted
-
 ### 🔐 SentinelAI
 A Zero-Trust Enforcement Backend that governs autonomous AI agents holding financial wallets — spend limits, allowlists, a real-time kill-switch with in-flight transaction revocation, and full Stripe two-phase auth-and-capture integration.
 
@@ -113,18 +106,24 @@ An AI-powered subscription leak detector that flags forgotten or overlapping rec
 
 🔗 **Live demo:** [leakradar-eight.vercel.app](https://leakradar-eight.vercel.app)
 
+### 🎬 QuickShow
+A full-stack movie-ticketing platform with real-time seat locking to prevent double-booking, secure payments, and live showtime data pulled from TMDB.
+
+`MongoDB` `Express` `React` `Node.js` `Socket.IO` `Razorpay` `TMDB API`
+
+🏅 Real-time seat-locking system built on Socket.IO to safely handle concurrent bookings
+
 ### 🎥 SyncMeet
 A real-time meeting platform with video/audio calling and live collaboration, refined across multiple rounds of feature and reliability audits.
 
 `MongoDB` `Express` `React` `Node.js` `Socket.IO` `WebRTC`
 
-**Also built:** **QuickShow** — a full-stack movie-ticketing platform with Razorpay payments and Socket.IO-based real-time seat locking · **FinGuardAI** — an AI fraud/compliance dashboard for SMEs · **Web3Quest** — a gamified Web3 learning platform with on-chain task validation (DEVCLASH hackathon)
+**Also built:** **FinGuardAI** — an AI fraud/compliance dashboard for SMEs · **Web3Quest** — a gamified Web3 learning platform with on-chain task validation (DEVCLASH hackathon)
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 💧 **Phase 1 Winner, $500 AUD Award** — Technology Infusion Grand Challenge (TIGC) 2026, La Trobe University, for HydroTrack
 - 📜 Completed **Ed Donner's Agentic AI Engineering** course (RAG, MCP, LangChain, dual-LLM judge architectures)
 - 📜 **Full Stack MERN** — Apna College
 - 📜 **Google Cloud Jam** & **Microsoft Azure Fundamentals**
