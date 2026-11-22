@@ -1,34 +1,38 @@
 <div align="center">
 
-# Hi, I'm Parth Kharat 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Parth%20Kharat&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Edge-AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-### Full-Stack Developer · Agentic AI Engineer · Embedded/Edge-AI Builder
+<a href="https://www.linkedin.com/in/parthkharat21/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kharatparth362006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/parthkharat20"><img src="https://img.shields.io/github/followers/parthkharat20?label=Followers&style=for-the-badge&color=24292e&logo=github" /></a>
+<a href="https://leetcode.com/u/parthkharat20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthkharat21/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharatparth362006@gmail.com)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Top+6+National+Finalist+%40+Viasat+Space+for+Good+2026;Technical+Lead+%40+GDG+DIT;Building+Production-Grade+Agentic+AI+Systems;Pre-Final+Year+Computer+Engineering+%E2%80%A2+CGPA+9.18" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
 ## 💫 About Me
 
-Pre-final year Computer Engineering student at **Dr. D. Y. Patil Institute of Technology (DYPIT), Pune** (SPPU) — CGPA **9.35**. I build production-grade full-stack products and, increasingly, autonomous AI agent systems — the kind of work that turns a hackathon weekend into something that actually ships.
+Pre-final year Computer Engineering student at **Dr. D. Y. Patil Institute of Technology (DYPIT), Pune** — CGPA **9.18**. I build production-grade full-stack products and autonomous AI agent systems — the kind of work that turns a hackathon weekend into something that actually ships.
 
-Active member of **GDG DIT** (Web Development domain), a daily DSA grinder (Striver's A2Z Sheet), and an occasional night-trekker. 🏔️
+🏅 **Top 6 National Finalist** — Viasat Space for Good India 2026 &nbsp;|&nbsp; 🏆 **Phase 1 Winner, $500 AUD** — TIGC 2026, La Trobe University
 
-**Open to:** full-stack collaborations, agentic AI/LLM tooling, and open-source contributions in the AI engineering space.
+**Open to:** full-stack & agentic AI collaborations, GSoC 2027 (space-tech / embedded systems orgs), and open-source contributions.
 
----
+<br/>
 
-## 🌱 Currently Learning / Focus
+## ⚡ Currently
 
-- 💼 Software Engineering Intern @ **SGRAMX**
-- 🤖 Going deep on **Multi-Agent Systems** and **Zero-Trust Agent Identity (ZTAI)** patterns for enterprise-grade AI engineering roles
-- 🧩 Sharpening agentic orchestration with **LangGraph**, **CrewAI**, and **MCP**
+- 🧑‍💻 **Technical Lead** @ **GDG DIT** — leading Web Development, AI/ML & Cloud Computing initiatives
+- 🛰️ Prepping for **GSoC 2027** — targeting Libre Space Foundation (SatNOGS), ArduPilot, AerospaceResearch.net
+- 🎪 **Organizer Lead** — *Incursion 2027*, a 24-hour national hackathon hosted by DYPIT
 - 📈 Solving DSA daily via **Striver's A2Z Sheet**
 
----
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -78,76 +82,68 @@ Active member of **GDG DIT** (Web Development domain), a daily DSA grinder (Stri
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+<br/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 🔐 SentinelAI
-A Zero-Trust Enforcement Backend that governs autonomous AI agents holding financial wallets — spend limits, allowlists, a real-time kill-switch with in-flight transaction revocation, and full Stripe two-phase auth-and-capture integration.
+- 🔐 **[PayPilot](https://github.com/parthkharat20/PayPilot)** — zero-trust AI-agent payment middleware, sub-50ms kill switch
+- 🎥 **[SyncMeet](https://github.com/parthkharat20/SyncMeet)** — real-time WebRTC meeting platform
+- 🎮 **[Web3Quest](https://web-three-quest.vercel.app)** — gamified Web3 learning platform *(live)*
+- 💸 **[LeakRadar](https://leakradar-eight.vercel.app)** — AI-powered subscription-leak detector *(live)*
+- 📈 **[TradeX](https://github.com/parthkharat20/TradeX-Trading-Platform)** — full-stack trading platform
+- 🛡️ **ArthKavach** — cybercrime cash-withdrawal forecasting (Smart India Hackathon 2026, SIH26184)
 
-`FastAPI` `SQLite` `React` `Stripe API`
+📦 Full source & more → **[github.com/parthkharat20](https://github.com/parthkharat20?tab=repositories)**
 
-🏅 Built for a national FinTech hackathon; demonstrates Zero-Trust Agent Identity (ZTAI) patterns
+<br/>
 
-### 🚨 CyberSaathi
-An AI-powered platform for generating Indian cybercrime complaints, combining OCR, ML-based classification, a RAG microservice, and a dedicated Python/FastAPI engine for forensics and PDF generation.
+## 🏆 Achievements & Leadership
 
-`React` `Express` `MongoDB` `Clerk` `Groq / Ollama` `FastAPI` `RAG`
+- 🏅 **Top 6 National Finalist** — Viasat: Space for Good India 2026 (Project BhuKavach)
+- 🏆 **Phase 1 Winner, $500 AUD** — Technology Infusion Grand Challenge 2026, La Trobe University (Team HydroTrack)
+- 🧑‍💻 **Technical Lead** — Google Developer Groups, DYPIT
+- 🎪 **Organizer Lead** — Incursion 2027, 24-hour national hackathon, DYPIT
+- 📜 Agentic AI Engineering (Ed Donner) · Full Stack MERN (Apna College) · Google Cloud Jam · Microsoft Azure Fundamentals
 
-🏅 Full MERN app paired with a standalone AI microservice architecture
+<br/>
 
-### 💸 LeakRadar
-An AI-powered subscription leak detector that flags forgotten or overlapping recurring payments.
+## 📊 GitHub Analytics
 
-`FastAPI` `Groq (LLaMA 3)` `React`
+<div align="center">
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=parthkharat20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=parthkharat20&theme=tokyonight&hide_border=true" />
+</div>
 
-🔗 **Live demo:** [leakradar-eight.vercel.app](https://leakradar-eight.vercel.app)
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=parthkharat20&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-### 🎬 QuickShow
-A full-stack movie-ticketing platform with real-time seat locking to prevent double-booking, secure payments, and live showtime data pulled from TMDB.
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=parthkharat20&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
-`MongoDB` `Express` `React` `Node.js` `Socket.IO` `Razorpay` `TMDB API`
+<div align="center">
+<img src="https://raw.githubusercontent.com/parthkharat20/parthkharat20/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</div>
 
-🏅 Real-time seat-locking system built on Socket.IO to safely handle concurrent bookings
-
-### 🎥 SyncMeet
-A real-time meeting platform with video/audio calling and live collaboration, refined across multiple rounds of feature and reliability audits.
-
-`MongoDB` `Express` `React` `Node.js` `Socket.IO` `WebRTC`
-
-**Also built:** **FinGuardAI** — an AI fraud/compliance dashboard for SMEs · **Web3Quest** — a gamified Web3 learning platform with on-chain task validation (DEVCLASH hackathon)
-
----
-
-## 🏆 Achievements & Certifications
-
-- 📜 Completed **Ed Donner's Agentic AI Engineering** course (RAG, MCP, LangChain, dual-LLM judge architectures)
-- 📜 **Full Stack MERN** — Apna College
-- 📜 **Google Cloud Jam** & **Microsoft Azure Fundamentals**
-- 👥 **GDG DIT** — Web Development Domain member
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=parthkharat20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=parthkharat20&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=parthkharat20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+<br/>
 
 ## 🤝 Let's Connect
 
 Always up for talking full-stack architecture, agentic AI systems, or where to trek next.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthkharat21/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharatparth362006@gmail.com)
-
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=parthkharat20&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://www.linkedin.com/in/parthkharat21/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kharatparth362006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/parthkharat20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=parthkharat20&style=for-the-badge&color=2C5364&label=Profile+Views" />
 
 </div>
