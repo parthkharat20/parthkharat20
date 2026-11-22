@@ -39,9 +39,7 @@ Contributed to full-stack development on the **MERN stack**, building and mainta
 
 ## ⚡ Currently
 
-- 🛰️ Prepping for **GSoC 2027** — targeting Libre Space Foundation (SatNOGS), ArduPilot, AerospaceResearch.net
 - 🎪 **Organizer Lead** — *Incursion 2027*, a 24-hour national hackathon hosted by DYPIT
-- 📈 Solving DSA daily via **Striver's A2Z Sheet**
 
 <br/>
 
